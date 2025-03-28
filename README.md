@@ -51,8 +51,8 @@ Follow these steps to get Byte running on your local machine:
 
 1.  **Clone the Repository (If applicable):**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    https://github.com/redwans324/byte-asistent.git
+    cd byte-asistent
     ```
     *(If you just have the files, ensure they are all in one directory)*
 
