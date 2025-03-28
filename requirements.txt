@@ -1,0 +1,26 @@
+# Core Assistant & Interaction
+SpeechRecognition
+PyAudio             # Required by SpeechRecognition for microphone access
+pyttsx3             # Text-to-speech engine
+
+# System Information
+psutil
+
+# API Communication & Web Requests
+requests            # For making HTTP requests (Weather, Jokes)
+wikipedia           # For Wikipedia searches (check if 'wikipedia-api' was intended, but code uses 'wikipedia')
+
+# Language Model (Groq)
+groq
+
+# Web Scraping & Automation
+selenium            # Browser automation
+beautifulsoup4      # HTML parsing
+webdriver-manager   # Automatic management of Selenium WebDriver
+lxml                # Efficient XML/HTML parser (often used with BeautifulSoup)
+
+# Configuration File Parsing (Standard library in Python 3, but good to list if targeting older Pythons explicitly)
+# configparser # Usually not needed in requirements.txt for Python 3+
+
+# Optional: Enhanced Console Output
+rich
