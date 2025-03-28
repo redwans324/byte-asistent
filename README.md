@@ -126,7 +126,7 @@ All major settings are managed in the `config.ini` file:
 
 *(**Developer Note:** Please choose a license like MIT, Apache 2.0, or GPLv3 and replace this section)*
 
-This project is licensed under the [**mit laicense** License](LICENSE.md). Please see the `LICENSE.md` file for details.
+This project is licensed under the [**mit laicense** License](LICENSE). Please see the `LICENSE.md` file for details.
 
 ---
 
